@@ -1,0 +1,8 @@
+0	API2Follower
+1	API2APIProvider
+2	API2SCategory
+3	API2Category
+4	API2Tag
+5	Mashup2API
+6	Mashup2Follower
+7	Mashup2Developer
